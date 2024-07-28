@@ -11,11 +11,11 @@
 
 Traveling can often be stressful, especially when trying to find necessary information in an unfamiliar airport or country. The **iTravel** app aims to simplify and streamline the travel experience by providing a single platform where travelers can access all the essential information they need. Our goal is to make traveling stress-free, allowing travelers to focus more on enjoying their journey rather than worrying about paperwork, missed flights, or luggage issues.
 
-### Summary
+### Summary:
 
 The **iTravel** app is designed to be a comprehensive travel companion, providing various features that help travelers manage their trips more efficiently. By integrating multiple functionalities into one application, we aim to enhance the overall travel experience and reduce the anxiety associated with traveling.
 
-## Features
+## Features:
 
 1. **Location and Time to Departure Gate**: Helps users find their departure gate based on their current location and provides an estimated time to reach the gate. It includes a map of the airport showing the gate location after passing through security.
 2. **Currency Conversion**: Allows users to convert their home currency to the destination country's currency, making it easier to manage expenses while traveling.
@@ -27,7 +27,7 @@ The **iTravel** app is designed to be a comprehensive travel companion, providin
 8. **Local Time of the Destination**: Displays the local time of the traveler's destination, helping them adjust and plan their schedule accordingly.
 9. **Link Passport and Other Travel Documents**: Allows users to store digital copies of their passport, visa, and other essential travel documents, ensuring easy access when needed.
 
-## Installation Instructions
+## Installation Instructions:
 
 To set up the **iTravel** app on your local development environment, follow these steps:
 
@@ -66,4 +66,3 @@ To use the **iTravel** app:
 
 - **Programming Language**: Swift
 - **UI Framework**: SwiftUI
-
